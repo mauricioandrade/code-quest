@@ -1,0 +1,18 @@
+export const DISTRICTS = [
+  { id: 0,  name: 'Silicon District',    module: 1,  theme: 'Fundamentos',        boss: 'NullPointer Rex',      bossKey: 'null-pointer-rex', emoji: '🐛' },
+  { id: 1,  name: 'Code Academy',        module: 2,  theme: 'Linguagens',         boss: 'The Undefined',        bossKey: 'the-undefined',    emoji: '👾' },
+  { id: 2,  name: 'Data Harbor',         module: 3,  theme: 'SQL & BD',           boss: 'The Deadlock',         bossKey: 'the-deadlock',     emoji: '🦑' },
+  { id: 3,  name: 'Git Gate',            module: 4,  theme: 'Versionamento',      boss: 'Merge Conflict Hydra', bossKey: 'merge-hydra',      emoji: '🐉' },
+  { id: 4,  name: 'Net District',        module: 5,  theme: 'Redes',              boss: 'The 404 Specter',      bossKey: '404-specter',      emoji: '👻' },
+  { id: 5,  name: 'Web Front',           module: 6,  theme: 'Web & Segurança',    boss: 'CORS Daemon',          bossKey: 'cors-daemon',      emoji: '😈' },
+  { id: 6,  name: 'API Plaza',           module: 7,  theme: 'APIs REST',          boss: 'Rate Limit Titan',     bossKey: 'rate-titan',       emoji: '🤖' },
+  { id: 7,  name: 'Framework Towers',    module: 8,  theme: 'MVC & Frameworks',   boss: 'The Spaghetti Monster',bossKey: 'spaghetti',        emoji: '🍝' },
+  { id: 8,  name: 'Container Port',      module: 9,  theme: 'Docker',             boss: 'Image Not Found',      bossKey: 'image-not-found',  emoji: '🐳' },
+  { id: 9,  name: 'NoSQL Jungle',        module: 10, theme: 'Bancos NoSQL',       boss: 'Schema Dragon',        bossKey: 'schema-dragon',    emoji: '🐲' },
+  { id: 10, name: 'Clean Hills',         module: 11, theme: 'Clean Code',         boss: 'The Code Smell',       bossKey: 'code-smell',       emoji: '🦨' },
+  { id: 11, name: 'Test Lab',            module: 12, theme: 'Testes',             boss: 'The Flakey Test',      bossKey: 'flakey-test',      emoji: '🧪' },
+  { id: 12, name: 'Pattern Palace',      module: 13, theme: 'Design Patterns',    boss: 'The Anti-Pattern',     bossKey: 'anti-pattern',     emoji: '🎭' },
+  { id: 13, name: 'Performance Peak',    module: 14, theme: 'Otimização',         boss: 'Memory Leak Demon',    bossKey: 'memory-leak',      emoji: '🧟' },
+  { id: 14, name: 'Cloud Summit',        module: 15, theme: 'Cloud & CI/CD',      boss: 'The Outage',           bossKey: 'the-outage',       emoji: '⛈️'  },
+  { id: 15, name: "Architect's Citadel", module: 16, theme: 'Arquitetura & DDD',  boss: 'The Legacy Monolith',  bossKey: 'legacy-monolith',  emoji: '🗿' },
+];
